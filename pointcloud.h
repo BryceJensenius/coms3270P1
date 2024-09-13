@@ -1,7 +1,7 @@
 #ifndef POINTCLOUD_H
 #define POINTCLOUD_H
 
-// Function prototypes
+// Function prototype
 void stat1(void);
 
 // Structure definition
